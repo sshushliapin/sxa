@@ -19,6 +19,15 @@ WORKDIR C:\inetpub\wwwroot
 # Copy developer tools and entrypoint
 COPY --from=tools C:\tools C:\tools
 
+# Add SPE module
+COPY --from=spe_resource_image C:\module\cm\content C:\inetpub\wwwroot
+ 
+# Add SXA module
+COPY --from=sxa_image C:\module\cm\content C:\inetpub\wwwroot
+COPY --from=sxa_image C:\module\tools C:\module\tools
+RUN C:\module\tools\Initialize-Content.ps1 -TargetPath C:\inetpub\wwwroot; `
+    Remove-Item -Path C:\module -Recurse -Force;
+
 # Copy the Sitecore Management Services Module
 COPY --from=management_services C:\module\cm\content C:\inetpub\wwwroot
 

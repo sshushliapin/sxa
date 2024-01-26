@@ -23,6 +23,12 @@ COPY --from=headless_services C:\module\tools C:\module\tools
 RUN C:\module\tools\Initialize-Content.ps1 -TargetPath C:\inetpub\wwwroot; `
     Remove-Item -Path C:\module -Recurse -Force;
 
+# Add SXA module
+COPY --from=sxa_image C:\module\cd\content C:\inetpub\wwwroot
+COPY --from=sxa_image C:\module\tools C:\module\tools
+RUN C:\module\tools\Initialize-Content.ps1 -TargetPath C:\inetpub\wwwroot; `
+    Remove-Item -Path C:\module -Recurse -Force;
+
 # Copy solution website files
 COPY --from=solution /artifacts/sitecore/ ./
 COPY .\sxa.config c:\inetpub\wwwroot\App_Config\Include

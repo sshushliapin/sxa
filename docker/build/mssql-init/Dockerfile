@@ -9,3 +9,6 @@ FROM ${PARENT_IMAGE}
 
 # Copy and init the JSS / Headless Services Module
 COPY --from=headless_services C:\module\db C:\resources\jss
+
+# Add SPE module
+COPY --from=spe_resource_image C:\module\db C:\resources\spe
