@@ -1,0 +1,36 @@
+{
+    "namespace": "Items",
+    "items" : {
+        "includes": [
+            {
+                "name": "api-key",
+                "path": "/sitecore/system/Settings/Services/API Keys/sxa",
+                "scope": "singleItem"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/sxa"
+            },
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/sxa"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/sxa"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/sxa"
+            },
+            {
+                "name": "content",
+                "path": "/sitecore/content/sxa"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/sxa"
+            }
+        ]
+    }
+}
