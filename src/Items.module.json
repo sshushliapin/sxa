@@ -24,10 +24,6 @@
                 "path": "/sitecore/layout/Placeholder Settings/Project/sxa"
             },
             {
-                "name": "content",
-                "path": "/sitecore/content/sxa"
-            },
-            {
                 "name": "media",
                 "path": "/sitecore/media library/sxa"
             }
