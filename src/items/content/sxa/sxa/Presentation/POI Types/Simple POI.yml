@@ -1,0 +1,40 @@
+﻿---
+ID: "ed01eb09-59e8-4233-97ab-90c70a4b6ec3"
+Parent: "77729cf4-4144-478c-8e57-e48e1284dd19"
+Template: "c58ee915-aa14-49bf-bee4-c821cac26913"
+Path: /sitecore/content/sxa/sxa/Presentation/POI Types/Simple POI
+BranchID: "f4371cd2-fd6d-4c4e-910d-8e1095c67b25"
+SharedFields:
+- ID: "57e50235-ce3e-4f31-846e-2646cbba69f8"
+  Hint: Icon
+  Value: |
+    <image mediaid="{6827739A-87B1-4EDC-95C8-08AE69AE04CA}" alt="pin_red" height="" width="" hspace="" vspace="" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{58EC36C2-B3A9-4DDE-8ECC-FA8CEAB9F958}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240201T153917Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71f4920d-5322-4a19-97e3-555d12c4c8bd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240201T153917Z

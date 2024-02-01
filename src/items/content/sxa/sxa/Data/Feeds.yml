@@ -1,0 +1,31 @@
+﻿---
+ID: "92e64975-cb2f-4d46-90ce-d8c484585043"
+Parent: "ea9be2fe-9ffb-4d3d-8b9b-1726bf4562cc"
+Template: "4eb7ddbf-d224-4ff1-b9d5-425712210972"
+Path: /sitecore/content/sxa/sxa/Data/Feeds
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240201T153948Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f00fa8a2-a5ac-4a43-8f3e-debd8d7c5f66"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240201T153948Z

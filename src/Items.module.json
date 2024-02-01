@@ -12,20 +12,12 @@
                 "path": "/sitecore/templates/Project/sxa"
             },
             {
-                "name": "layouts",
-                "path": "/sitecore/layout/Layouts/Project/sxa"
-            },
-            {
-                "name": "renderings",
-                "path": "/sitecore/layout/Renderings/Project/sxa"
-            },
-            {
-                "name": "placeholders",
-                "path": "/sitecore/layout/Placeholder Settings/Project/sxa"
+                "name": "content",
+                "path": "/sitecore/content/sxa"
             },
             {
                 "name": "media",
-                "path": "/sitecore/media library/sxa"
+                "path": "/sitecore/media library/Project/sxa"
             }
         ]
     }
