@@ -97,3 +97,9 @@ See Sitecore Containers documentation for more information on system requirement
   project directly from Visual Studio.
 * Review README's found in the projects and throughout the solution
   for additional information.
+
+## CLI login
+
+```
+dotnet sitecore login --auth "https://id.sxa.localhost" --cm "https://cm.sxa.localhost" --allow-write true --client-credentials true
+```
