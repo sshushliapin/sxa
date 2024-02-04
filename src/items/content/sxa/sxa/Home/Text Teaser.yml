@@ -1,0 +1,29 @@
+﻿---
+ID: "3c0e16d6-9020-4e35-88f4-36b942a87560"
+Parent: "b1089a79-9520-45b6-9d72-b584bc07b077"
+Template: "f8d648a9-a449-4771-a8f8-951332461b02"
+Path: /sitecore/content/sxa/sxa/Home/Text Teaser
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17ae4698-9e7b-4d8f-97bd-53e8c1d78848"
+      Hint: Title
+      Value: Text Teaser
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240204T164639Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Text Teaser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d59bfc42-0055-48b3-b560-3fafc397c5f8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240204T164639Z

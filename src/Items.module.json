@@ -8,12 +8,40 @@
                 "scope": "singleItem"
             },
             {
+                "name": "templates-feature",
+                "path": "/sitecore/templates/Feature/sxa"
+            },
+            {
                 "name": "templates",
                 "path": "/sitecore/templates/Project/sxa"
             },
             {
+                "name": "branches-feature",
+                "path": "/sitecore/templates/Branches/Feature/sxa"
+            },
+            {
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Feature/sxa"
+            },
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Feature/sxa"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/sxa"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/sxa"
+            },
+            {
                 "name": "content",
                 "path": "/sitecore/content/sxa"
+            },
+            {
+                "name": "media-feature",
+                "path": "/sitecore/media library/Feature/sxa"
             },
             {
                 "name": "media",
