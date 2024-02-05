@@ -9,43 +9,43 @@
             },
             {
                 "name": "templates-feature",
-                "path": "/sitecore/templates/Feature/sxa"
+                "path": "/sitecore/templates/Feature/SXA Tutorial"
             },
             {
-                "name": "templates",
-                "path": "/sitecore/templates/Project/sxa"
+                "name": "templates-project",
+                "path": "/sitecore/templates/Project/SXA Tutorial"
             },
             {
                 "name": "branches-feature",
-                "path": "/sitecore/templates/Branches/Feature/sxa"
+                "path": "/sitecore/templates/Branches/Feature/SXA Tutorial"
             },
             {
                 "name": "settings",
-                "path": "/sitecore/system/Settings/Feature/sxa"
+                "path": "/sitecore/system/Settings/Feature/SXA Tutorial"
             },
             {
                 "name": "layouts",
-                "path": "/sitecore/layout/Layouts/Feature/sxa"
+                "path": "/sitecore/layout/Layouts/Feature/SXA Tutorial"
             },
             {
                 "name": "renderings",
-                "path": "/sitecore/layout/Renderings/Feature/sxa"
+                "path": "/sitecore/layout/Renderings/Feature/SXA Tutorial"
             },
             {
                 "name": "placeholders",
-                "path": "/sitecore/layout/Placeholder Settings/Feature/sxa"
+                "path": "/sitecore/layout/Placeholder Settings/Feature/SXA Tutorial"
             },
             {
                 "name": "content",
-                "path": "/sitecore/content/sxa"
+                "path": "/sitecore/content/SXA Tutorial"
             },
             {
                 "name": "media-feature",
-                "path": "/sitecore/media library/Feature/sxa"
+                "path": "/sitecore/media library/Feature/SXA Tutorial"
             },
             {
-                "name": "media",
-                "path": "/sitecore/media library/Project/sxa"
+                "name": "media-project",
+                "path": "/sitecore/media library/Project/SXA Tutorial"
             }
         ]
     }

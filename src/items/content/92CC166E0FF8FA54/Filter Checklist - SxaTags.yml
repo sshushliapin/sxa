@@ -2,7 +2,7 @@
 ID: "4483901b-93e8-4d39-8b92-7c74382c793c"
 Parent: "3d93ab39-498a-472d-84b1-f86c5e826d43"
 Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
-Path: "/sitecore/content/sxa/sxa/Presentation/Rendering Variants/Aggregated Facet Filter/Default/Section/Filter Checklist - SxaTags"
+Path: "/sitecore/content/SXA Tutorial/sxa/Presentation/Rendering Variants/Aggregated Facet Filter/Default/Section/Filter Checklist - SxaTags"
 BranchID: "f85580ce-5a51-4e53-a0b4-9361380d76ab"
 SharedFields:
 - ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"

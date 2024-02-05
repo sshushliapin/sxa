@@ -1,0 +1,42 @@
+﻿---
+ID: "dfeb97b5-7b40-4be5-8ea7-12f07a642790"
+Parent: "d8e28f2f-dd23-42f7-a964-aa5c3c590392"
+Template: "6cb89a20-fac2-4044-803b-1522bd1b05d0"
+Path: /sitecore/content/SXA Tutorial/sxa/Presentation/Page Designs
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7bF17FE98C-62F1-4B04-B84D-86759214BCEC%7d%3d%257B474FEB58-8D1B-4EA0-B7A1-5B57ECD78620%257D%26%7bF8D648A9-A449-4771-A8F8-951332461B02%7d%3d%257B5DBBC586-B7F4-4C94-ABC8-565CA3758E34%257D"
+- ID: "c0c88e34-d7e6-46a0-b84f-b0a432d11642"
+  Hint: Theme
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257BE99B315F-8C89-4419-A84F-BE1005EF2DDC%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5D5CE43E-D5C6-4C53-89BC-36285DDE8EC9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240201T153854Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7df16e50-7c1e-42ba-83fd-8f4dbe55331c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240204T143523Z

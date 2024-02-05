@@ -2,7 +2,7 @@
 ID: "fc8d2625-ec2c-4181-a994-2cf154a5b2b6"
 Parent: "d7a8982e-8529-4d95-9370-0e99cea8bdba"
 Template: "6eca12e9-f4d5-4f6e-9c3c-6df716bc593b"
-Path: "/sitecore/content/sxa/sxa/Presentation/Rendering Variants/Media Link/Icon-Name-Date and Download link/File Description/File/FileTypeIcon"
+Path: "/sitecore/content/SXA Tutorial/sxa/Presentation/Rendering Variants/Media Link/Icon-Name-Date and Download link/File Description/File/FileTypeIcon"
 BranchID: "630530a2-bfbf-4538-8fc0-41f4e5a5a2b8"
 SharedFields:
 - ID: "3a4dd4df-8d32-405f-831a-39f87a550085"

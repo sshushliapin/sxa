@@ -1,0 +1,76 @@
+﻿---
+ID: "bcb3ffcc-cc85-406d-8ddd-23057a7fc446"
+Parent: "8b0b46fb-ee59-434a-b760-f45206d4b4d8"
+Template: "fefde60c-18a9-4f65-a7bf-4b35c325264d"
+Path: /sitecore/content/SXA Tutorial/sxa/Presentation/Partial Designs/Common/Header
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{4C973FBD-0BD0-49EB-84C8-13D4D939CFA8}"
+          p:before="*"
+          s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+          s:par="NavigationFieldNames&amp;Reset Caching Options&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B0D61344E-265D-4FD0-A2A0-1694F44DD9D3%7D&amp;Styles=%7B17DE3C5D-9140-4436-8CCF-837B30716110%7D&amp;NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;Filter=%7BD063E9D1-C7B5-4B1E-B31E-69886C9C59F5%7D&amp;Flattened&amp;AddRoot&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+          s:ph="/header/toggle-4" />
+        <r
+          uid="{1D1BF9AD-18E1-4E0B-B2C4-A2CF2531F657}"
+          p:after="r[@uid='{4C973FBD-0BD0-49EB-84C8-13D4D939CFA8}']"
+          s:ds="{1E19172A-4B8A-4486-B2EE-02D464E08A71}"
+          s:id="{69D0A00E-FF06-4B17-BE59-BED330577680}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D%7C%7B44DE8663-1F41-422C-8D4C-021D981CEC4F%7D%7C%7B31A49E90-E4B4-4F04-A3C7-E15B6835990F%7D&amp;FieldNames=%7B6A72BB8D-9B3F-4639-999A-9EE41911C83D%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+          s:ph="header" />
+        <r
+          uid="{A87945B8-76C9-458F-B0C4-CA7C84FE134B}"
+          p:after="r[@uid='{1D1BF9AD-18E1-4E0B-B2C4-A2CF2531F657}']"
+          s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+          s:par="NavigationFieldNames&amp;Reset Caching Options&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D%7C%7B64E70996-17A5-42B1-ACA7-0CC49459B74B%7D%7C%7B8157CC39-7164-4B11-978F-AA4AEF767AAD%7D&amp;FieldNames=%7B0D61344E-265D-4FD0-A2A0-1694F44DD9D3%7D&amp;Styles=%7BEE79B7E4-5F1A-4BBC-B77E-A08B1B4D7A38%7D&amp;NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;Filter=%7BD063E9D1-C7B5-4B1E-B31E-69886C9C59F5%7D&amp;Flattened&amp;AddRoot&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+          s:ph="header" />
+        <r
+          uid="{B561E7F1-B7F9-4530-B723-B6ECB8FDEA1D}"
+          p:after="r[@uid='{A87945B8-76C9-458F-B0C4-CA7C84FE134B}']"
+          s:ds="{347731DC-B8FE-48B1-8A98-502C6E97D04E}"
+          s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B824C8D0B-5538-4E25-BAF2-82CF5E7D94FF%7D%7C%7B31A49E90-E4B4-4F04-A3C7-E15B6835990F%7D&amp;FieldNames=%7B6D13D4C6-4FF7-4D41-B745-E3AD17A22075%7D&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+          s:ph="header" />
+        <r
+          uid="{DDA24512-237A-4F70-AA5A-D3DAA113DA4A}"
+          p:after="*[1=2]"
+          s:ds="{979BFFCC-4E47-4739-8694-AEA9E725DE21}"
+          s:id="{60A49017-0BB4-4D92-AB59-587E6C618B30}"
+          s:par="EasingFunction=Swing&amp;Speed=500&amp;ExpandOnHover&amp;ExpandedByDefault&amp;Reset Caching Options&amp;GridParameters=%7BEDCB7C39-E041-423F-8884-1440C976818E%7D%7C%7B95710A52-36F6-4668-A9AE-4A42249CE8C3%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+          s:ph="header" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240204T093207Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f39ea7d9-2db6-4926-8ff6-e24d83d6545a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240204T113715Z

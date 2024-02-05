@@ -170,6 +170,7 @@ services:
     volumes:
       - ${LOCAL_DEPLOY_PATH}\platform:C:\deploy
       - ${LOCAL_DATA_PATH}\cm:C:\inetpub\wwwroot\App_Data\logs
+      - ${LOCAL_VIEWS_PATH}\Text Teaser:C:\inetpub\wwwroot\Views\Text Teaser
       - ${HOST_LICENSE_FOLDER}:c:\license
     environment:
       SITECORE_LICENSE_LOCATION: c:\license\license.xml
