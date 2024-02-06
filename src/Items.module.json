@@ -46,6 +46,10 @@
             {
                 "name": "media-project",
                 "path": "/sitecore/media library/Project/SXA Tutorial"
+            },
+            {
+                "name": "media-theme",
+                "path": "/sitecore/media library/Themes/SXA Tutorial"
             }
         ]
     }
