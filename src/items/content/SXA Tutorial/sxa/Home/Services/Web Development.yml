@@ -1,0 +1,29 @@
+﻿---
+ID: "9d5d97fd-6484-48d8-a05e-88da5a911426"
+Parent: "4fccf9fc-f125-42ae-b72d-f7007319b89f"
+Template: "5215fd81-82d7-4d06-9eae-a5429c2caabc"
+Path: /sitecore/content/SXA Tutorial/sxa/Home/Services/Web Development
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17ae4698-9e7b-4d8f-97bd-53e8c1d78848"
+      Hint: Title
+      Value: Web Development
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240206T135313Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Web Development
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a08766f5-ab6e-4af2-82d3-badc1bb5f50e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240206T135313Z

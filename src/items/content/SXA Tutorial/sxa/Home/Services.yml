@@ -1,0 +1,29 @@
+﻿---
+ID: "4fccf9fc-f125-42ae-b72d-f7007319b89f"
+Parent: "b1089a79-9520-45b6-9d72-b584bc07b077"
+Template: "0db1aab6-160a-401d-973d-35a45548b1fd"
+Path: /sitecore/content/SXA Tutorial/sxa/Home/Services
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17ae4698-9e7b-4d8f-97bd-53e8c1d78848"
+      Hint: Title
+      Value: Services
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240206T135251Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Services
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32e8bbe2-2443-4c68-8f8d-a2406faf1bc2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240206T135251Z

@@ -2,7 +2,7 @@
 ID: "965bdd21-44a1-4286-b2d9-9e4b6eb9352d"
 Parent: "0db1aab6-160a-401d-973d-35a45548b1fd"
 Template: "0db1aab6-160a-401d-973d-35a45548b1fd"
-Path: /sitecore/templates/Feature/SXA Tutorial/Services/Services Overview/__Standard Values
+Path: /sitecore/templates/Project/SXA Tutorial/Services Overview/__Standard Values
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters

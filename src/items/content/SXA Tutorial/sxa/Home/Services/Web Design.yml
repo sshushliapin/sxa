@@ -1,0 +1,29 @@
+﻿---
+ID: "f45f77fa-27dc-49a4-b5a3-02d65c4334ac"
+Parent: "4fccf9fc-f125-42ae-b72d-f7007319b89f"
+Template: "5215fd81-82d7-4d06-9eae-a5429c2caabc"
+Path: /sitecore/content/SXA Tutorial/sxa/Home/Services/Web Design
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17ae4698-9e7b-4d8f-97bd-53e8c1d78848"
+      Hint: Title
+      Value: Web Design
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240206T135303Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Web Design
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39329db8-6fcc-4683-b7c0-840ac36ad7a1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240206T135303Z

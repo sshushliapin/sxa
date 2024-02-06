@@ -1,18 +1,15 @@
 ﻿---
-ID: "bcc6b1fe-6514-447f-b19f-0f0e6643e7b2"
+ID: "59fbdd7e-ffcf-4811-bd4b-b414edc77fe1"
 Parent: "b5bf135b-3c94-4e0d-b8da-4487ba3a2449"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/SXA Tutorial/Services/Services Detail/Teaser/Teaser Image
+Path: /sitecore/templates/Project/SXA Tutorial/Services Detail/Teaser/Teaser Headline
 SharedFields:
-- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
-  Hint: Source
-  Value: "query:$siteMedia"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Image
+  Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 300
+  Value: 100
 Languages:
 - Language: en
   Versions:
@@ -20,7 +17,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240206T122449Z
+      Value: 20240206T122448Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -31,11 +28,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9ff730cc-bd2a-4f4e-b36e-2df8f87591c6"
+      Value: "8395cd58-1c1c-42b2-bd3b-e8336060069e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240206T122449Z
+      Value: 20240206T122448Z
