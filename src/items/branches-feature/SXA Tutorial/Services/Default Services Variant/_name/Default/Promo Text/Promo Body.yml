@@ -1,0 +1,27 @@
+﻿---
+ID: "3dc2a819-dc8e-483f-9de2-4b93fa21b4fc"
+Parent: "0524e6c2-b09c-4f18-aa8b-9c2f6ad6d888"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/templates/Branches/Feature/SXA Tutorial/Services/Default Services Variant/$name/Default/Promo Text/Promo Body
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160427T134835Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffc9f14a-2f4c-4fe3-b2d9-b34a26907d09"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240206T131512Z

@@ -1,0 +1,23 @@
+﻿---
+ID: "7b9f2ec7-f8a7-4e7e-8058-f3e42b0a840c"
+Parent: "a65c3b05-28b8-4b92-bfdf-e034076e6e8d"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/templates/Branches/Feature/SXA Tutorial/Services/Default Services Variant/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160818T065035Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d9374a82-9836-4fe9-a224-426fe234b7f4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240206T131512Z

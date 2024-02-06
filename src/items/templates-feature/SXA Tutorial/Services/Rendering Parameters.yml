@@ -1,12 +1,8 @@
 ﻿---
-ID: "bfc23a44-a472-4882-9137-53e908b44c3a"
-Parent: "642e22d0-d503-4405-89c9-abe3c90774ba"
-Template: "292ccfcd-7790-4692-856b-76014b8038e7"
-Path: /sitecore/system/Settings/Feature/SXA Tutorial/Services/Services Site Setup
-SharedFields:
-- ID: "40deee2f-7595-40bd-b2c9-51f9e2346100"
-  Hint: Dependencies
-  Value: "{BDF83718-907A-435B-B1BA-64139E07983F}"
+ID: "4633fb48-5b7d-45ec-b116-1e203bc1fda0"
+Parent: "45d34095-d028-454e-a917-586317af26bf"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/SXA Tutorial/Services/Rendering Parameters
 Languages:
 - Language: en
   Versions:
@@ -14,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240206T130657Z
+      Value: 20240206T131505Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -25,14 +21,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e8d15834-be79-474c-9468-c8763dcda230"
+      Value: "02b344e3-7a7e-4364-b4af-93f1102fe699"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
-    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
-      Hint: Name
-      Value: Services
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240206T131510Z
+      Value: 20240206T131505Z
