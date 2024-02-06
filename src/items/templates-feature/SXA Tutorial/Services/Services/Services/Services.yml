@@ -6,7 +6,7 @@ Path: /sitecore/templates/Feature/SXA Tutorial/Services/Services/Services/Servic
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "query:$site/*[@@name='Home']/*[@@templatename='Services Detail']"
+  Value: "query:$site/*[@@name='Home']/*[@@templatename='Services Overview']/*"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Multilist
@@ -31,11 +31,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f14685c9-2262-4229-be36-bfeba8ee550b"
+      Value: "d3b5cffe-8152-47ab-b8be-2946e00e5156"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240206T132438Z
+      Value: 20240206T150822Z

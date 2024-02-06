@@ -17,13 +17,19 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Web Development
+    - ID: "59fbdd7e-ffcf-4811-bd4b-b414edc77fe1"
+      Hint: Teaser Headline
+      Value: Web Development
+    - ID: "67326763-14e1-4af5-b541-7f9be30b4df5"
+      Hint: Teaser Description
+      Value: Lorem ipsum
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a08766f5-ab6e-4af2-82d3-badc1bb5f50e"
+      Value: "76505c64-dcb9-4725-8d28-65c638a4a6fe"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240206T135313Z
+      Value: 20240206T151056Z

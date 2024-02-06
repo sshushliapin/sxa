@@ -1,0 +1,45 @@
+﻿---
+ID: "47006d7e-74a1-476b-a2f0-f5cb34f03a5a"
+Parent: "d2eb32a9-74a5-4844-a735-c6c1280cfe15"
+Template: "96b2f660-f854-4aaa-ba30-57a735ce57d3"
+Path: /sitecore/content/SXA Tutorial/sxa/Data/Services/Services
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "21bab48b-ab24-4da8-addc-1b1396696011"
+      Hint: Services Headline
+      Value: Services Headline
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240206T141113Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96f723b8-a11e-4a41-934c-b4bf71ded16f"
+    - ID: "8e161381-bde6-491f-87d8-9b5f3053a708"
+      Hint: Services
+      Value: |
+        {F45F77FA-27DC-49A4-B5A3-02D65C4334AC}
+        {9D5D97FD-6484-48D8-A05E-88DA5A911426}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bee30fb3-2a32-4e07-8647-08c6d6e40d13"
+      Hint: Services Description
+      Value: Services Description
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240206T150910Z
