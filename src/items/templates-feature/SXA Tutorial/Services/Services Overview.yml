@@ -1,8 +1,8 @@
 ﻿---
 ID: "0db1aab6-160a-401d-973d-35a45548b1fd"
-Parent: "476c2d9a-add8-519a-bb08-1c986f1e99e8"
+Parent: "45d34095-d028-454e-a917-586317af26bf"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/SXA Tutorial/Services Overview
+Path: /sitecore/templates/Feature/SXA Tutorial/Services/Services Overview
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon

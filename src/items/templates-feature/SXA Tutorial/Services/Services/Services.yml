@@ -2,7 +2,7 @@
 ID: "734f3e20-bb80-41e9-9d62-984cf7d76c6c"
 Parent: "96b2f660-f854-4aaa-ba30-57a735ce57d3"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Feature/SXA Tutorial/Services/Services/Promo
+Path: /sitecore/templates/Feature/SXA Tutorial/Services/Services/Services
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon

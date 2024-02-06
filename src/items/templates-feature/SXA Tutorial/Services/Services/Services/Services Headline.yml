@@ -1,47 +1,38 @@
 ﻿---
-ID: "ed363d95-1f45-417b-a2de-5984a9778f45"
+ID: "21bab48b-ab24-4da8-addc-1b1396696011"
 Parent: "734f3e20-bb80-41e9-9d62-984cf7d76c6c"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/SXA Tutorial/Services/Services/Promo/PromoIcon2
+Path: /sitecore/templates/Feature/SXA Tutorial/Services/Services/Services/Services Headline
 SharedFields:
-- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
-  Hint: Source
-  Value: "query:$siteMedia"
-- ID: "24cb32f0-e364-4f37-b400-0f2899097b5b"
-  Hint: Enable Shared Language Fallback
-  Value: 1
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Image
+  Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 600
+  Value: 700
 Languages:
 - Language: en
-  Fields:
-  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
-    Hint: Title
-    Value: Image 2
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20141106T105010Z
+      Value: 20240206T132336Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\adamnaj
+        sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5cdee20a-ee48-4371-9f94-63b5c0bb21b9"
+      Value: "b68f030e-6f5c-4d0e-a1c7-89e8f4399853"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240206T131506Z
-    - ID: "fa622538-0c13-4130-a001-45984241aa00"
-      Hint: Enable Language Fallback
-      Value: 1
+      Value: 20240206T132336Z

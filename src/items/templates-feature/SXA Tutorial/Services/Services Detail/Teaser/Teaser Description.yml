@@ -1,15 +1,15 @@
 ﻿---
-ID: "5215fd81-82d7-4d06-9eae-a5429c2caabc"
-Parent: "476c2d9a-add8-519a-bb08-1c986f1e99e8"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/SXA Tutorial/Services Detail
+ID: "67326763-14e1-4af5-b541-7f9be30b4df5"
+Parent: "b5bf135b-3c94-4e0d-b8da-4487ba3a2449"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/SXA Tutorial/Services/Services Detail/Teaser/Teaser Description
 SharedFields:
-- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
-  Hint: __Icon
-  Value: Office/32x32/piece.png
-- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
-  Hint: __Base template
-  Value: "{F8D648A9-A449-4771-A8F8-951332461B02}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
 Languages:
 - Language: en
   Versions:
@@ -17,7 +17,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240206T122328Z
+      Value: 20240206T122448Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -28,11 +28,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ec235a61-6abf-4a96-aadd-38691212e375"
+      Value: "9be462d5-7533-4993-9d99-fc05c0edb763"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240206T125551Z
+      Value: 20240206T122449Z
